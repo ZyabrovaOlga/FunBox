@@ -1,0 +1,24 @@
+.app {
+  line-height: normal;
+  display: inline-block;
+  vertical-align: middle;
+  margin-bottom: 20px;
+  margin-top: 36px;
+  text-align: center;
+}
+
+.app__header {
+  align-items: center;
+  color: white;
+  font-family: "Exo 2.0- Thin";
+  font-size: 36px;
+  flex-direction: column;
+  padding: 0 10px;
+}
+
+.app__background {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  width: -webkit-fill-available;
+}
